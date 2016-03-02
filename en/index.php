@@ -11,22 +11,23 @@
         <meta property="og:description" content="We are an organization of young adults for young adults. We collect funds to buy a ship. With this ship, we will conduct private sea rescue on the Mediterranean Sea" />
         <meta property="og:url" content="http://en.jugendrettet.org/" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
+        <meta property="og:image:secure_url" content="https://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Jugend Rettet" />
         <link rel="alternate" hreflang="de" href="http://jugendrettet.org/" />
-        <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
-        <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
-        <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link rel="stylesheet" href="http://jugendrettet.org/css/animations.1.css?0" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?5" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
+        <link rel="shortcut icon" type="image/x-icon" href="../graphics/jr.ico" />
+        <link rel="mask-icon" href="../graphics/jr-mask.svg" color="rgb(40,100,130)">
+        <link rel="apple-touch-icon" href="../graphics/apple-touch-icon.png"/>
+        <link rel="stylesheet" href="../css/animations.1.css?0" type="text/css" />
+        <link rel="stylesheet" href="../css/waves.1.css" type="text/css" />
+        <link rel="stylesheet" href="../css/general.css" type="text/css" />
+        <link rel="stylesheet" href="../css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="../css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="../css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
         <!--[if IE]>
-            <link rel="stylesheet" href="http://jugendrettet.org/ie-css/noship.css" type="text/css" />
+            <link rel="stylesheet" href="../ie-css/noship.css" type="text/css" />
         <![endif]-->
-        <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
+        <script src="../js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
                 $('#phase hr#ph-eins-progress').addClass('load')
@@ -47,13 +48,13 @@
         <div id="wrap" class="start">
             <div class="fullscreen-bg">
                 <video id="waves-video" class="fullscreen-bg__video" loop autoplay preload="auto">
-                    <source src="http://jugendrettet.org/videos/waves.mp4">
-                    <img alt="Wave Simulation" src="http://jugendrettet.org/images/error.jpg"/>
+                    <source src="../videos/waves.mp4">
+                    <img alt="Wave Simulation" src="../images/error.jpg"/>
                 </video>
             </div>
             <header>
-                <a id="logo-wrap" href="/?0">
-                    <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugent Rettet">
+                <a id="logo-wrap" href="/">
+                    <img id="logo" src="../graphics/logo.svg" alt="Jugent Rettet">
                     <div id="title">Jugend <b>Rettet</b></div>
                 </a>
             </header>
@@ -63,10 +64,10 @@
                 <div class="index" id="schiff-ani">
                     <div id="schiff-container" class="center" style="min-height:133px;width:300px;">
                         <div id="schiff" style="padding:5px;position:absolute">
-                          <img src="http://jugendrettet.org/graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
+                          <img src="../graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
                         </div>
-                        <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 36006 / 80000);">
-                          <img src="http://jugendrettet.org/graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px" class="blink">
+                        <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 39067 / 80000);">
+                          <img src="../graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px" class="blink">
                         </div>
                     </div>
                 </div>
@@ -93,9 +94,9 @@
                     <nav class="footer">
                         <ul>
                             <li><a href="presse">Press</a></li>
-                            <li><a href="http://jugendrettet.org/transparenz">Transparency (de)</a></li>
+                            <li><a href="https://jugendrettet.org/transparenz">Transparency (de)</a></li>
                             <li class="br"></li>
-                            <li><a href="http://jugendrettet.org/">de</a></li>
+                            <li><a href="https://jugendrettet.org/">de</a></li>
                         </ul>
                     </nav>
                 </footer>
@@ -156,8 +157,8 @@
             var deadline = '2016-03-31';
             initializeClock('clockdiv', deadline);
         </script>
-        <script src="http://jugendrettet.org/js/shared.js"></script>
-        <script src="http://jugendrettet.org/js/main.js?0"></script>
-        <script src="http://jugendrettet.org/js/peekfield.js?2"></script>
+        <script src="../js/shared.js"></script>
+        <script src="../js/main.js?0"></script>
+        <script src="../js/peekfield.js?2"></script>
     </body>
 </html>

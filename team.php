@@ -12,22 +12,23 @@
         <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
         <meta property="og:url" content="http://jugendrettet.org/unterstuetzer" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
+        <meta property="og:image:secure_url" content="https://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Jugend Rettet" />
 
         <link rel="alternate" hreflang="en" href="http://en.jugendrettet.org/team" />
 
-        <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
-        <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
-        <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
+        <link rel="shortcut icon" type="image/x-icon" href="./graphics/jr.ico" />
+        <link rel="mask-icon" href="./graphics/jr-mask.svg" color="rgb(40,100,130)">
+        <link rel="apple-touch-icon" href="./graphics/apple-touch-icon.png"/>
+        <link rel="stylesheet" href="./css/waves.1.css" type="text/css" />
 
-        <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?5" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
+        <link rel="stylesheet" href="./css/general.css" type="text/css" />
+        <link rel="stylesheet" href="./css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="./css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="./css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
 
-        <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
+        <script src="./js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
             });
@@ -40,7 +41,7 @@
 	    <div id="wrap">
             <header>
                 <a id="logo-wrap" href="/">
-                    <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugend Rettet">
+                    <img id="logo" src="./graphics/logo.svg" alt="Jugend Rettet">
                     <div id="title">Jugend <b>Rettet</b></div>
                 </a>
                 <div id="bread">
@@ -71,13 +72,13 @@
                 <div class="container double">
                     <div class="column">
                         <h4>Das Team</h4>
-                        <a href="http://jugendrettet.org/images/team.jpg" target="_blank"><img class="news" alt="unser Team" src='http://jugendrettet.org/images/team_s.jpg'></a>
+                        <a href="./images/team.jpg" target="_blank"><img class="news" alt="unser Team" src='./images/team_s.jpg'></a>
                         <ul>
                             <li><b>Jakob</b>: Gründer und 1. Vorsitzender
                                 <br>
                                 Tel.: <a href="tel:+4916095683873">+49 160 95 68 38 73</a>
                             </li>
-                            <li><b>Lena</b>: Gründerin und 2. Vorsitzender
+                            <li><b>Lena</b>: Gründerin und 2. Vorsitzende
                                 <br>
                                 Tel.: <a href="tel:+4915168446398">+49 151 68 44 63 98</a>
                             </li>
@@ -90,7 +91,7 @@
                             <li><b>Sonja</b>:  Organisation, Recht, Finanzen</li>
                             <li><b>Jakob</b>:  Konzeption, Öffentlichkeit, Recht, Finanzen</li>
                             <li><b>Pauline</b>:  Öffentlichkeit, Presse</li>
-                            <li><b>Johanna</b>:  Öffentlichkeit, Gestaltung</li>
+                            <li><b>Jojo</b>:  Öffentlichkeit, Gestaltung</li>
                             <li><b>Alex</b>:  IT, Gestaltung</li>
                             <li><b>Matthias</b>:  Finanzen, Recherche</li>
                             <li><b>Johanna</b>:  Öffentlichkeit</li>
@@ -145,7 +146,7 @@
                             <li>Köln: <a href="mailto:Carlo@jugendrettet.org">Carlo</a></li>
                             <li>Liechtenstein: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
                             <li>Münster: <a href="mailto:Jana@jugendrettet.org">Jana</a></li>
-                            <li>Nürnberg: <a href="mailto:Johanna@jugendrettet.org">Johanna</a></li>
+                            <li>Nürnberg: <a href="mailto:Jojo@jugendrettet.org">Jojo</a></li>
                             <li>Paderborn: <a href="mailto:Wiebke@jugendrettet.org">Wiebke</a></li>
                             <li>Paris: <a href="mailto:Patrick@jugendrettet.org">Patrick</a></li>
                             <li>Potsdam: <a href="mailto:Christoph@jugendrettet.org">Christoph</a></li>
@@ -189,7 +190,7 @@
                             <li><a href="impressum">Impressum</a></li>
                             <li><a href="transparenz">Transparenz</a></li>
                             <li class="br"></li>
-                            <li><a href="http://en.jugendrettet.org/team">en</a></li>
+                            <li><a href="https://en.jugendrettet.org/team">en</a></li>
                         </ul>
                     </nav>
                 </footer>
@@ -197,7 +198,7 @@
         </div>
 
         <!-- Scripts -->
-        <script src="http://jugendrettet.org/js/main.js?0"></script>
-        <script src="http://jugendrettet.org/js/peekfield.js?2"></script>
+        <script src="./js/main.js?0"></script>
+        <script src="./js/peekfield.js?2"></script>
     </body>
 </html>

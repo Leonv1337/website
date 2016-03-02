@@ -12,22 +12,23 @@
         <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
         <meta property="og:url" content="http://jugendrettet.org/europe" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
+        <meta property="og:image:secure_url" content="https://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Jugend Rettet" />
 
         <link rel="alternate" hreflang="en" href="http://en.jugendrettet.org/europe" />
 
-        <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
-        <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
-        <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
+        <link rel="shortcut icon" type="image/x-icon" href="./graphics/jr.ico" />
+        <link rel="mask-icon" href="./graphics/jr-mask.svg" color="rgb(40,100,130)">
+        <link rel="apple-touch-icon" href="./graphics/apple-touch-icon.png"/>
+        <link rel="stylesheet" href="./css/waves.1.css" type="text/css" />
 
-        <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?5" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
+        <link rel="stylesheet" href="./css/general.css" type="text/css" />
+        <link rel="stylesheet" href="./css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="./css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="./css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
 
-        <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
+        <script src="./js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
             });
@@ -40,7 +41,7 @@
 	    <div id="wrap">
             <header>
                 <a id="logo-wrap" href="/">
-                    <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugend Rettet">
+                    <img id="logo" src="./graphics/logo.svg" alt="Jugend Rettet">
                     <div id="title">Jugend <b>Rettet</b></div>
                 </a>
                 <div id="bread">
@@ -71,15 +72,15 @@
                 </div>
                 <div class="container triple">
                     <div class="column">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/fla.svg">Politisch Aktiv</h4>
+                        <h4><img class="icon" src="./graphics/fla.svg">Politisch Aktiv</h4>
                         <p><i>Jugend Rettet</i> leistet humanitäre Hilfe. Mit Jugend Rettet europe beziehen wir Stellung, weil wir den Status Quo der Europäischen Asylpolitik als menschenverachtend empfinden. Die aktuelle Lage ist untragbar. Wir kritisieren die aktuelle Asylpolitik, wollen Regierungen zur Verantwortung und letztlich zum Handeln zwingen. Wir bieten eine Plattform auf der sich Jugendliche aus ganz Europa vernetzen, diskutieren, handeln.</p><br>
                     </div>
                     <div class="column">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/phi.svg">Philosophie</h4>
+                        <h4><img class="icon" src="./graphics/phi.svg">Philosophie</h4>
                         <p>Jugend Rettet europe ist neben der humanitären Arbeit von <i>Jugend Rettet</i> eine Diskussionsplattform von und für junge Erwachsene. Wir sind unabhängig von Parteien. Wir wollen der Jugend eine Stimme geben und lösungsorientiert über die Asylpolitik der Zukunft diskutieren. Es muss sich etwas ändern. Überlegt mit uns, wie ein neues Konzept aussehen könnte. <i>Jugend Rettet</i> gehört weder einer Partei, Kirche oder bereits bestehender Organisation an. Wir haben uns 2015 gegründet, weil wir als junge Generation uns endlich äußern und Stellung beziehen wollen.</p><br>
                     </div>
                     <div class="column">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/eve.svg">Events</h4>
+                        <h4><img class="icon" src="./graphics/eve.svg">Events</h4>
                         <p>Hier findest du die Termine für die nächsten Jugend Rettet europe Treffen und Fortbildungen.</p><br>
                         <!--
                         <a href="events?date=09-11-2015" class="event-container">
@@ -149,6 +150,10 @@
                             <span class="event-date">Donnerstag, 17. März 2016</span>
                             <span class="event-title">Bonn: Deine Spende für die Rettung No. 2</span>
                         </a>
+                        <a href="events?date=17-03-2016-potsdam" class="event-container">
+                            <span class="event-date">Donnerstag, 17. März 2016</span>
+                            <span class="event-title">JUGEND RETTET meets ASYLAND Potsdam</span>
+                        </a>
                         <a href="events?date=18-03-2016" class="event-container">
                             <span class="event-date">Freitag, 18. März 2016</span>
                             <span class="event-title">Soli-Party - Feiern für den Umbau</span>
@@ -168,7 +173,7 @@
                             <li><a href="impressum">Impressum</a></li>
                             <li><a href="transparenz">Transparenz</a></li>
                             <li class="br"></li>
-                            <li><a href="http://en.jugendrettet.org/europe">en</a></li>
+                            <li><a href="https://en.jugendrettet.org/europe">en</a></li>
                         </ul>
                     </nav>
                 </footer>
@@ -176,7 +181,7 @@
         </div>
 
         <!-- Scripts -->
-        <script src="http://jugendrettet.org/js/main.js?0"></script>
-        <script src="http://jugendrettet.org/js/peekfield.js?2"></script>
+        <script src="./js/main.js?0"></script>
+        <script src="./js/peekfield.js?2"></script>
     </body>
 </html>

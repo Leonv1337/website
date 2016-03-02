@@ -12,35 +12,36 @@
         <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
         <meta property="og:url" content="http://jugendrettet.org/aendern" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
+        <meta property="og:image:secure_url" content="https://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Jugend Rettet" />
 
         <link rel="alternate" hreflang="en" href="http://en.jugendrettet.org/aendern" />
 
-        <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
-        <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
-        <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
+        <link rel="shortcut icon" type="image/x-icon" href="./graphics/jr.ico" />
+        <link rel="mask-icon" href="./graphics/jr-mask.svg" color="rgb(40,100,130)">
+        <link rel="apple-touch-icon" href="./graphics/apple-touch-icon.png"/>
+        <link rel="stylesheet" href="./css/waves.1.css" type="text/css" />
 
-        <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?5" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
+        <link rel="stylesheet" href="./css/general.css" type="text/css" />
+        <link rel="stylesheet" href="./css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="./css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="./css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
 
-        <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
+        <script src="./js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
             });
         </script>
         <style type="text/css">
             #was {
-                background-image: url(http://jugendrettet.org/images/board.jpg);
+                background-image: url(./images/board.jpg);
             }
             #warum {
-                background-image: url(http://jugendrettet.org/images/shoe.jpg);
+                background-image: url(./images/shoe.jpg);
             }
             #wie {
-                background-image: url(http://jugendrettet.org/images/sepa.jpg);
+                background-image: url(./images/sepa.jpg);
             }
         </style>
     </head>
@@ -51,7 +52,7 @@
 	    <div id="wrap">
             <header>
                 <a id="logo-wrap" href="/">
-                    <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugend Rettet">
+                    <img id="logo" src="./graphics/logo.svg" alt="Jugend Rettet">
                     <div id="title">Jugend <b>Rettet</b></div>
                 </a>
                 <div id="bread">
@@ -121,7 +122,7 @@
                             <li><a href="impressum">Impressum</a></li>
                             <li><a href="transparenz">Transparenz</a></li>
                             <li class="br"></li>
-                            <li><a href="http://en.jugendrettet.org/aendern">en</a></li>
+                            <li><a href="https://en.jugendrettet.org/aendern">en</a></li>
                         </ul>
                     </nav>
                 </footer>
@@ -142,7 +143,7 @@
                 </div>
                 <div class="container triple plus-map">
                     <div class="column mehr" id="botschafter">
-                        <h4><img alt="bot" class="icon" src="http://jugendrettet.org/graphics/bot.svg">Botschafter</h4>
+                        <h4><img alt="bot" class="icon" src="./graphics/bot.svg">Botschafter</h4>
                         <p>Du willst <i>Jugend Rettet</i> in deiner Stadt vertreten?</p>
                         <div class="mehr-klappe"><br>
                             <p>Dann werde offizieller Repräsentant unserer Bewegung vor Ort. Organisiere Spendenaktionen, Flyeraktionen, Informationsveranstaltungen und finde Unterstützer für unsere Idee. Gemeinsam mit den <a id="kl-retter" class="mehr" style="display: inline; opacity: 1 !important;">Kleinen Rettern</a> deiner Stadt nimmst du Projekte in Angriff. Du wirst von uns mit wichtigen Materialien ausgestattet und bei Fragen stehen wir dir gerne zur Verfügung. Auf der Karte siehst du, wo es bereits Botschafter gibt.</p><br>
@@ -151,7 +152,7 @@
                         <a class="mehr-btn">Mehr ...</a>
                     </div>
                     <div class="column mehr" id="kl-retter">
-                        <h4><img alt="fla" class="icon" src="http://jugendrettet.org/graphics/fla.svg">Kleiner Retter</h4>
+                        <h4><img alt="fla" class="icon" src="./graphics/fla.svg">Kleiner Retter</h4>
                         <p>Du willst dich mit einer einmaligen Aktion engagieren?</p>
                         <div class="mehr-klappe"><br>
                             <p>Dann werde Kleiner Retter und wende dich an den Botschafter deiner Stadt. Setze deine Idee in die Tat um. Gibt es noch keinen Boschafter, wende dich bitte an uns. Mache unser Projekt bekannt und sammle Geld für unser Schiff oder unterstütze uns durch Sachspenden. Was wir aktuell suchen, findest du auf unserer <a href="https://www.facebook.com/JugendRettet" target="_blank">Facebook-Seite</a> und in den <a class="link" href="news">Neuigkeiten</a>.</p>
@@ -159,7 +160,7 @@
                         <a class="mehr-btn">Mehr ...</a>
                     </div>
                     <div class="column mehr" id="retter">
-                        <h4><img alt="cap" class="icon" src="http://jugendrettet.org/graphics/cap.svg">Retter</h4>
+                        <h4><img alt="cap" class="icon" src="./graphics/cap.svg">Retter</h4>
                         <p>Du willst als  Crewmitglied die Rettung auf dem Mittelmeer durchführen?</p>
                         <div class="mehr-klappe"><br>
                             <p>Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew sehr sorgsam auszuwählen.<br><br>
@@ -175,7 +176,7 @@
             </div>
         </div>
         <!-- Scripts -->
-        <script src="http://jugendrettet.org/js/main.js?0"></script>
-        <script src="http://jugendrettet.org/js/peekfield.js?2"></script>
+        <script src="./js/main.js?0"></script>
+        <script src="./js/peekfield.js?2"></script>
     </body>
 </html>
