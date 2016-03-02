@@ -499,6 +499,33 @@ Euer Jugend Rettet Team</p><br>
                         </div><br>
                     </div>
 
+                    <div class="date-container" id="17-03-2016-potsdam">
+                        <h4>JUGEND RETTET meets ASYLAND Potsdam</h4>
+                        <br>
+                        <p>
+                            Jugend Rettet holt <a class="link" href="http://www.asyland.de/">Asyland</a> am 17.3.16 in Verbindung mit einem offenen Treffen für eine Vorstellung ins <a class="link" href="http://www.freiland-potsdam.de/">freiLand</a> (Haus 2) Potsdam. Anschließend an eine ca. 30 minütige Projektvorstellung zu Jugend Rettet wird der Film gezeigt. Der Film erzählt die Geschichte von Geflüchteten aus ihrer eigenen Perspektive. Das Asyland-Team begleitete den Alltag von Geflüchteten über ein halbes Jahr und dokumentiert dabei neben ihrem Tagesablauf, auch ihre Motivationen, Gefühle und Gedanken. 
+                        </p>
+                        <p>
+                            Auf der Suche nach Erklärungen beleuchtet der Film unterschiedliche Sichtweisen auf die Situation von Flüchtlingen in Deutschland. Interviewt wurden Schauspieler, Politiker und Menschen, die der Beweis dafür sind, dass jeder bei der Bewältigung der Herausforderungen, denen sich Flüchtlinge gegenübergestellt sehen, helfen kann. Alles was man tun muss: Die Perspektive wechseln.
+                        </p>
+                        <br>
+                        <p>
+                            Eintritt freiwillig. Das eingenomme Geld fließt direkt in das Jugend Rettet Schiff.
+                        </p>
+                        <br>
+                        <p>
+                            Wir freuen uns auf euch!
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Donnerstag, 17. März 2016</div>
+                            <div class="event-icon"><img src="./graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/freiLand+Potsdam/@52.3893949,13.074562,17z/data=!3m1!4b1!4m2!3m1!1s0x47a8f5edcb364fd1:0x6e95c64c5498f780" target="_blank">freiLand<br>Friedrich-Engels-Straße 22<br>14473 Potsdam</a></div><br>
+                            <div class="event-icon"><img src="./graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">20:00 Uhr</div>
+                        </div><br>
+                    </div>
+
                     <div class="date-container" id="18-03-2016">
                         <h4>Soli-Party - Party for the conversion</h4>
                         <br>
