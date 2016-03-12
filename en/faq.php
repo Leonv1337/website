@@ -139,6 +139,14 @@ We are convinced that only long-run improvements in the regions of origin will l
                         <a class="faq" id="17"><b>17</b> Why is in a time like that, a ship the on the Mediterranean most important?</a>
                         <div class="faq-klappe" id="17-klappe">
                             <p>The deaths on the Mediterranean central route are vanished from the headlines, but the situation hasn’t. The number of refugees and deaths are as high as ever and therefore the distance between Libya and Italy stays the most dangerous escape way. We don’t let the media tell us that all the refugees have arrived and that the only important thing now is their integration. We engage ourselves now to be there in 2016 before the next message about a big disaster on the Mediterranean appears.</p>
+                        </div><br>
+                        <a class="faq" id="18"><b>18</b> Was passiert mit den Spendengeldern, wenn ihr euer Ziel nicht erreicht?</a>
+                        <div class="faq-klappe" id="18-klappe">
+                            <p>Sammeln wir bis zum 31. März nicht genug Spendengelder für den Umbau, die Überführung und den ersten Betriebsmonat, verfällt die Finanzierungszusage für unser Schiff. Wir werden dann im Team überlegen, ob es sinnvoll ist weiterhin für ein großes Schiff zu sammeln oder ob wir auf anderem Wege schneller für die Menschen in Not da sein können.</p>
+                        </div><br>
+                        <a class="faq" id="19"><b>19</b> Was passiert mit den Spenden, wenn sich euer Verein auflöst?</a>
+                        <div class="faq-klappe" id="19-klappe">
+                            <p>Das Geld wird in jedem Fall für das Wohl von Menschen auf der Flucht eingesetzt. Löst sich der Verein auf, gehen laut Satzung alle Spenden an das Flüchtlingshilfswerk der Vereinten Nationen (UNHCR).</p>
                         </div>
                     </div>
                     <div class="column" id="nachweis">
