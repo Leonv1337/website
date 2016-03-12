@@ -10,7 +10,7 @@
 
         <meta property="og:title" content="Jugend Rettet" />
         <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
-        <meta property="og:url" content="http://jugendrettet.org/schiff" />
+        <meta property="og:url" content="https://jugendrettet.org/schiff" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:image:secure_url" content="https://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
@@ -24,7 +24,7 @@
         <link rel="stylesheet" href="./css/waves.1.css" type="text/css" />
 
         <link rel="stylesheet" href="./css/general.css" type="text/css" />
-        <link rel="stylesheet" href="./css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="./css/main.css?7" type="text/css" />
         <link rel="stylesheet" href="./css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
         <link rel="stylesheet" href="./css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
 
@@ -140,7 +140,10 @@
                 <div class="container single">
                     <div class="column">
                         <p>Wir sind eine Organisation von jungen Erwachsenen, die Gelder für den Erwerb eines Schiffes sammeln. Mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben. Wir werden Menschen in Seenot lokalisieren, sie aufnehmen und sicher in den nächstgelegenen Hafen bringen. Unser Ziel ist klar: weniger Tote im Mittelmeer.</p>
-                        <p>Darüber hinaus werden wir mit <a href="europe">Jugend Rettet europe</a> eine Diskussionsplattform über die europäische Asylpolitik für junge Erwachsene schaffen. Wir glauben an das Potenzial unserer jungen Generation, die aktuelle Situation durch eine breite asylpolitische Diskussion in ganz Europa zu verbessern.</p><br>
+                        <p>Darüber hinaus werden wir mit <a href="europe">Jugend Rettet europe</a> eine Diskussionsplattform über die europäische Asylpolitik für junge Erwachsene schaffen. Wir glauben an das Potenzial unserer jungen Generation, die aktuelle Situation durch eine breite asylpolitische Diskussion in ganz Europa zu verbessern.</p>
+                        <h4>Transparenz</h4>
+                        <a href="./transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="./graphics/Transparente_Zivilgesellschaft.svg"></a>
+                        <br>
                     </div>
                 </div>
             </div>

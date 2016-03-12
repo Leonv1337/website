@@ -11,7 +11,7 @@
 
         <meta property="og:title" content="Jugend Rettet" />
         <meta property="og:description" content="We are an organization of young adults for young adults. We collect funds to buy a ship. With this ship, we will conduct private sea rescue on the Mediterranean Sea" />
-        <meta property="og:url" content="http://en.jugendrettet.org/news" />
+        <meta property="og:url" content="https://en.jugendrettet.org/team" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:image:secure_url" content="https://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
@@ -25,7 +25,7 @@
         <link rel="stylesheet" href="../css/waves.1.css" type="text/css" />
 
         <link rel="stylesheet" href="../css/general.css" type="text/css" />
-        <link rel="stylesheet" href="../css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="../css/main.css?7" type="text/css" />
         <link rel="stylesheet" href="../css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
         <link rel="stylesheet" href="../css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
 
@@ -107,6 +107,7 @@
                             <li><b>Jonas</b>:  Layout</li>
                             <li><b>Kjeld</b>:  Layout</li>
                             <li><b>Leon</b>:  Webdesign</li>
+                            <li><b>Titus</b>:  Coordinator Ship</li>
                         </ul>
                         <br>
                         <h4>The Crew</h4>
@@ -135,6 +136,7 @@
                             <li>Berlin: <a href="mailto:Sonja@jugendrettet.org">Sonja</a></li>
                             <li>Bochum: <a href="mailto:Benedikt@jugendrettet.org">Benedikt</a></li>
                             <li>Bonn: <a href="mailto:Tobias@jugendrettet.org">Tobias</a></li>
+                            <li>Brunsbüttel: <a href="mailto:Max@jugendrettet.org">Max</a></li>
                             <li>Cologne: <a href="mailto:Carlo@jugendrettet.org">Carlo</a></li>
                             <li>Copenhagen: <a href="mailto:Kira@jugendrettet.org">Kira</a></li>
                             <li>Emsland: <a href="mailto:Jannik@jugendrettet.org">Jannik</a></li>
@@ -158,6 +160,7 @@
                             <li>Spiekeroog: <a href="mailto:AnnSophie@jugendrettet.org">Ann Sophie</a></li>
                             <li>Stuttgart: <a href="mailto:Harun@jugendrettet.org">Harun</a></li>
                             <li>Trier: <a href="mailto:Asa@jugendrettet.org">Asa</a></li>
+                            <li>Zürich: <a href="mailto:Michael@jugendrettet.org">Michael</a></li>
                         </ul>
                         <br>
                         <h4>Supporters</h4>

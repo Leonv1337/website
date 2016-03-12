@@ -10,7 +10,7 @@
 
         <meta property="og:title" content="Jugend Rettet" />
         <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
-        <meta property="og:url" content="http://jugendrettet.org/europe" />
+        <meta property="og:url" content="https://jugendrettet.org/europe" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:image:secure_url" content="https://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
@@ -24,7 +24,7 @@
         <link rel="stylesheet" href="./css/waves.1.css" type="text/css" />
 
         <link rel="stylesheet" href="./css/general.css" type="text/css" />
-        <link rel="stylesheet" href="./css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="./css/main.css?7" type="text/css" />
         <link rel="stylesheet" href="./css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
         <link rel="stylesheet" href="./css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
 
@@ -141,6 +141,10 @@
                         <a href="events?date=10-03-2016" class="event-container">
                             <span class="event-date">Donnerstag, 10. März 2016</span>
                             <span class="event-title">Bonn: Deine Spende für die Rettung</span>
+                        </a>
+                        <a href="events?date=14-03-2016" class="event-container">
+                            <span class="event-date">Montag, 14. März 2016</span>
+                            <span class="event-title">Offenes Treffen Berlin</span>
                         </a>
                         <a href="events?date=15-03-2016" class="event-container">
                             <span class="event-date">Dienstag, 15. März 2016</span>

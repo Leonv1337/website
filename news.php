@@ -10,7 +10,7 @@
 
         <meta property="og:title" content="Jugend Rettet" />
         <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
-        <meta property="og:url" content="http://jugendrettet.org/news" />
+        <meta property="og:url" content="https://jugendrettet.org/news" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:image:secure_url" content="https://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
@@ -24,7 +24,7 @@
         <link rel="stylesheet" href="./css/waves.1.css" type="text/css" />
 
         <link rel="stylesheet" href="./css/general.css?0" type="text/css" />
-        <link rel="stylesheet" href="./css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="./css/main.css?7" type="text/css" />
         <link rel="stylesheet" href="./css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
         <link rel="stylesheet" href="./css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
 
@@ -364,7 +364,7 @@
                       </div><br>
                       <a class="faq" id="16"><b>2. November</b> Start der 1. Phase</a>
                       <div class="faq-klappe" id="16-klappe">
-                          <p>Die Menschen auf dem Mittelmeer sterben jetzt. Wir wollen und werden nicht weiter zuschauen. Deswegen beginnt heute unsere erste von drei Spendenphasen. Wir werden bis Februar 2016 die Summe von 270.000 Euro sammeln, um das Schiff zu kaufen und es für den Umbau nach Hamburg zu überführen. Jedes Mal, wenn eine Spende bei uns eingeht, wird hier ein Stück des Schiffdesigns aufgedeckt: <a target="_blank" href="spenden">./spenden</a>.</p>
+                          <p>Die Menschen auf dem Mittelmeer sterben jetzt. Wir wollen und werden nicht weiter zuschauen. Deswegen beginnt heute unsere erste von drei Spendenphasen. Wir werden bis Februar 2016 die Summe von 270.000 Euro sammeln, um das Schiff zu kaufen und es für den Umbau nach Hamburg zu überführen. Jedes Mal, wenn eine Spende bei uns eingeht, wird hier ein Stück des Schiffdesigns aufgedeckt: <a target="_blank" href="spenden">jugendrettet.org/spenden</a>.</p>
                               <p>Wir brauchen deine Spende, um der europäischen Gleichgkültigekit gegenüber der Sitaution auf dem Mittelmeer etwas entgegensetzen und Menschen zu retten. Spende jetzt!</p>
                       </div><br>
                       <a class="faq" id="15"><b>1. November 2015</b> Nowkoelln Flowmarkt</a>
@@ -429,7 +429,7 @@
                         <ul>
                           <li>&#10003; Wir haben Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler - besichtigt. Sobald wir uns für ein Schiff entschieden haben erstellen wir die Pläne für den Umbau im April.</li>
                           <!--<li>&#10003; Wir haben eine 11-köpfige Crew inklusive Kapitän gefunden und gemeinsam unsere halbjährige Operation geplant.</li>-->
-                          <li>&#10003; Wir haben ein Netz von Botschaftern in 27 Städten aufgebaut.</li>
+                          <li>&#10003; Wir haben ein Netz von Botschaftern in 29 Städten aufgebaut.</li>
                           <li>&#10003; Wir haben Maria Furtwängler, Armin Rohde und Jasmin Gerat als Stimmen für <i>Jugend Rettet</i> gewinnen können.</li>
                           <li>&#10003; Wir haben in Berlin ein Kernteam von 11 Menschen aufgebaut.</li>
                         </ul>

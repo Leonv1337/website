@@ -10,7 +10,7 @@
 
         <meta property="og:title" content="Jugend Rettet" />
         <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
-        <meta property="og:url" content="http://jugendrettet.org/transparenz" />
+        <meta property="og:url" content="https://jugendrettet.org/transparenz" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:image:secure_url" content="https://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
@@ -24,7 +24,7 @@
         <link rel="stylesheet" href="./css/waves.1.css" type="text/css" />
 
         <link rel="stylesheet" href="./css/general.css" type="text/css" />
-        <link rel="stylesheet" href="./css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="./css/main.css?7" type="text/css" />
         <link rel="stylesheet" href="./css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
         <link rel="stylesheet" href="./css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
 
@@ -77,11 +77,13 @@
                 </div>
                 <div class="container single">
                     <div class="column">
+                        <a target="_blank" href="http://www.transparente-zivilgesellschaft.de"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="./graphics/Transparente_Zivilgesellschaft.svg"></a>
+                        <br><br>
                         <p>
                             <i>Jugend Rettet</i> nimmt seine Aufgaben als vertrauenswürdige und 
                             verantwortungsbewusste gemeinnützige Organisation ernst. Transparenz ist uns 
-                            wichtig. Deshalb wollen wir uns der <a target="_blank" href="https://www.transparency.de/Initiative-Transparente-Zivilg.1612.0.html"><u>Initiative Transparente Zivilgesellschaft</u></a> 
-                            anschließen. Wir haben uns in diesem Rahmen verpflichtet, die nachstehenden 
+                            wichtig. Deshalb haben wir uns der <a target="_blank" href="http://www.transparente-zivilgesellschaft.de"><u>Initiative Transparente Zivilgesellschaft</u></a> 
+                            angeschlossen. Wir haben uns in diesem Rahmen verpflichtet, die nachstehenden 
                             Informationen der Öffentlichkeit auf unserer Webseite zur Verfügung zu stellen und 
                             regelmäßig zu updaten.
                         </p>  

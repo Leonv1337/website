@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
         <meta property="og:title" content="Jugend Rettet" />
         <meta property="og:description" content="We are an organization of young adults for young adults. We collect funds to buy a ship. With this ship, we will conduct private sea rescue on the Mediterranean Sea" />
-        <meta property="og:url" content="http://en.jugendrettet.org/" />
+        <meta property="og:url" content="https://en.jugendrettet.org/" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:image:secure_url" content="https://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
@@ -21,7 +21,7 @@
         <link rel="stylesheet" href="../css/animations.1.css?0" type="text/css" />
         <link rel="stylesheet" href="../css/waves.1.css" type="text/css" />
         <link rel="stylesheet" href="../css/general.css" type="text/css" />
-        <link rel="stylesheet" href="../css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="../css/main.css?7" type="text/css" />
         <link rel="stylesheet" href="../css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
         <link rel="stylesheet" href="../css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
         <!--[if IE]>
@@ -63,10 +63,10 @@
                 <hr class="wide">
                 <div class="index" id="schiff-ani">
                     <div id="schiff-container" class="center" style="min-height:133px;width:300px;">
-                        <div id="schiff" style="padding:5px;position:absolute">
+                        <div id="schiff" style="position:absolute">
                           <img src="../graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
                         </div>
-                        <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 39067 / 80000);">
+                        <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:calc(300px * 50836 / 80000);">
                           <img src="../graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px" class="blink">
                         </div>
                     </div>
@@ -74,15 +74,15 @@
                 <div id="fundtext">
                     <div id="phase" style="text-transform:none;">
                         <div class="ph-container center" id="ph-eins" style="max-width:300px;">
-                            <div class="header">
-                                <span class="title"> </span><span class="percentage"><?php echo $value1;?> / 80k €</span>
+                            <div class="header index-page">
+                                <!--<span class="title"> </span>--><span class="percentage"><?php echo $value1;?> / 80k €</span>
                                 <hr id="ph-eins-progress">
                             </div>
                         </div>
                     </div>
                     <div id="clockdiv">
                       <div>
-                        <p><span class="days"></span> days left to donate.</p>
+                        <p><span class="days"></span> days left to donate</p>
                       </div>
                     </div>
                 </div>

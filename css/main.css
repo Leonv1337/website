@@ -14,7 +14,7 @@ body {
 }
 body.start {
     overflow: hidden !important;
-    background-image: url(http://jugendrettet.org/images/error.jpg);
+    background-image: url(https://jugendrettet.org/images/error.jpg);
     background-size: cover;
 }
 body.start:hover, #cross:hover, #bread:hover, .mehr:hover {
@@ -411,6 +411,13 @@ footer.start {
     display: block;
     border: 1px solid rgb(175,200,210);
 }
+#phase .header.index-page {
+    padding-top:8px;
+    color: white;
+    background-color: transparent;
+    display: block;
+    border: 1px solid white;
+}
 #phase .header:hover, #phase .header.indicator {
     transition: 200ms;
     cursor: pointer;
@@ -418,16 +425,21 @@ footer.start {
     color: #fff;
     border: 1px solid rgb(40,100,130);
 }
+#phase .header.index-page:hover {
+    background-color: transparent;
+}
 #phase .title {
     margin: 10px 10px 0;
     height: 10px;
 }
 #phase span.percentage {
+    font-weight: 400;
+}
+/*
     float: right;
     text-align: right;
     margin: 0 10px 0 -50px;
-    font-weight: 400;
-}
+*/
 #phase .content {
     display: block;
     width: calc(100% - 22px);
@@ -441,6 +453,9 @@ footer.start {
     height: 40px;
     margin: -30px 0 0;
     border: none;
+}
+#phase div.index-page hr {
+    background-color: rgb(40,100,130);
 }
 #phase .header:hover > hr.load, #phase hr.indicator {
     background-color: rgb(40,100,130);

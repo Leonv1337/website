@@ -10,7 +10,7 @@
         
         <meta property="og:title" content="Jugend Rettet" />
         <meta property="og:description" content="We are an organization of young adults. We collect funds to buy a ship. With this ship, we will induce private sea rescue on the Mediterranean Sea." />
-        <meta property="og:url" content="http://en.jugendrettet.org/schiff" />
+        <meta property="og:url" content="https://en.jugendrettet.org/schiff" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:image:secure_url" content="https://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
@@ -24,7 +24,7 @@
         <link rel="stylesheet" href="../css/waves.1.css" type="text/css" />
 
         <link rel="stylesheet" href="../css/general.css" type="text/css" />
-        <link rel="stylesheet" href="../css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="../css/main.css?7" type="text/css" />
         <link rel="stylesheet" href="../css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
         <link rel="stylesheet" href="../css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
           
@@ -140,7 +140,10 @@
                 <div class="container single">
                     <div class="column">
                         <p>We are an organisation of young adults, who raise money to buy a ship. With this ship we will conduct rescue missions on the Mediterranean. We will then localize the people, take them in safely at the closest port. Our goal is clear: Less deaths in the Mediterranean Sea.</p>
-                        <p>Furthermore we intend to create a discussion platform via the <a href="europe">Jugend Rettet europe</a> program, in which the asylum policies are debated and scrutinized. We believe in the potential capacity and capabilities of our young generation to change the status quo of the Mediterranean for the better and to become more engaged in the discussions on asylum policy.</p><br>
+                        <p>Furthermore we intend to create a discussion platform via the <a href="europe">Jugend Rettet europe</a> program, in which the asylum policies are debated and scrutinized. We believe in the potential capacity and capabilities of our young generation to change the status quo of the Mediterranean for the better and to become more engaged in the discussions on asylum policy.</p>
+                        <h4>Transparency (de)</h4>
+                        <a href="https://jugendrettet.org/transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="../graphics/Transparente_Zivilgesellschaft.svg"></a>
+                        <br>
                     </div>    
                 </div>
             </div>
